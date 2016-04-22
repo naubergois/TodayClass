@@ -7,6 +7,11 @@ class TodayclasssController < ActionController::Base
     
   end
   
+  def new
+    
+    
+    
+  end
   
   
 end
