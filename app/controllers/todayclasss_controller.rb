@@ -1,4 +1,4 @@
-class TodayClassController < ActionController::Base
+class TodayclasssController < ActionController::Base
   
   
   
